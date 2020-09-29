@@ -1,3 +1,6 @@
 # hello-worl
 aprendizaje de documentos 
-que tal empezo su dia hoy?
+centro educativo salome ureña
+codigo 02309
+distrito 1301
+regional montecrristi 
