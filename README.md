@@ -1,3 +1,4 @@
 # hello-worl
 aprendizaje de documentos 
-que tal empezo su dia hoy?
+documento de word 
+llenar cada uno de los siguientes puntos 
